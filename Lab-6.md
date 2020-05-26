@@ -4,7 +4,7 @@
 
 ## 목적
 
-- Azure Sphere High-level Applicaiton 의 기본적인 이해
+- Azure Sphere Real time Applicaiton 의 기본적인 이해
 - Visual Studio 를 이용해 Application 을 빌드하고 디버그하는 방법을 익힙니다.
 - Azure Sphere SDK 의 GPIO API 사용방법을 익힙니다.
 
