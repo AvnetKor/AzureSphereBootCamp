@@ -6,6 +6,10 @@
 
 
 이 Repo는 Azure Sphere Bootcamp 실습을 위해 작성되었습니다. 모든 실습을 따르고 마치는데 필요한 관련 정보를 제공합니다. 
+## 커뮤니티
+- [Softweb](https://www.softwebsolutions.com/microsoft-azure-sphere.html)
+- [Hackster Azure sphere Project](https://www.hackster.io/search?i=projects&q=azure%20sphere)
+- [element14 community](https://www.element14.com/community/groups/azuresphere)
 
 ## 문서
 
